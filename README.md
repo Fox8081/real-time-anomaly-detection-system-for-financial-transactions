@@ -61,8 +61,10 @@ cd yourproject ( location here all project files are stored)
 
 **2. Create and activate a Python environment in anaconda**
 
-cd " location here all project files are stored " ( if you downloaded all files )
+cd " location where all project files are stored " ( if you downloaded all files )
+
 conda create -n anomalyenv python=3.11
+
 conda activate anomalyenv
 
 **3. Install project dependencies**
