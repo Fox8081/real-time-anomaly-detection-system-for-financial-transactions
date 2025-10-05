@@ -57,7 +57,7 @@ This project is designed to detect anomalies in government scheme transactions b
 
 git clone https://github.com/Fox8081/real-time-anomaly-detection-system-for-financial-transactions/edit/main
 
-cd yourproject ( location here all project files are stored)
+cd yourproject ( location were all project files are stored)
 
 
 **2. Create and activate a Python environment in anaconda**
