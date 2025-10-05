@@ -18,6 +18,7 @@ The goal of this project is to build a real-time anomaly detection system for fi
 - [Model Architecture](#model-architecture)
 - [Data Generation and Simulation](#data-generation-and-simulation)
 - [Troubleshooting](#troubleshooting)
+- [Results](#result)
 - [Contributing](#contributing)
 ---
 
@@ -148,6 +149,8 @@ streamlit run dashboard.py
 - **Login errors:**               Verify credentials in `dashboard.py`.
 
 ---
+## Result 
+
 
 ## Contributing
 
