@@ -151,6 +151,13 @@ streamlit run dashboard.py
 ---
 ## Result 
 
+<img width="1911" height="906" alt="Image" src="https://github.com/user-attachments/assets/8fb7812e-c32a-42ac-9106-4d316fa4ded3" />
+<img width="1919" height="904" alt="Image" src="https://github.com/user-attachments/assets/bddf39cf-3094-47a2-897f-d2f914146f0b" />
+<img width="1396" height="877" alt="Image" src="https://github.com/user-attachments/assets/827c2387-3e26-4a98-ade7-27f9452ef38e" />
+<img width="1422" height="643" alt="Image" src="https://github.com/user-attachments/assets/6f050d65-9d35-4d9c-98b3-6b557a3d8817" />
+<img width="1918" height="933" alt="Image" src="https://github.com/user-attachments/assets/bfebe73a-706e-45b6-b4a6-af9314ca1024" />
+
+
 
 ## Contributing
 
