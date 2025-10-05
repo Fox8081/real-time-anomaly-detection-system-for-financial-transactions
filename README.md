@@ -157,7 +157,7 @@ streamlit run dashboard.py
 <img width="1422" height="643" alt="Image" src="https://github.com/user-attachments/assets/6f050d65-9d35-4d9c-98b3-6b557a3d8817" />
 <img width="1918" height="933" alt="Image" src="https://github.com/user-attachments/assets/bfebe73a-706e-45b6-b4a6-af9314ca1024" />
 
-
+---
 
 ## Contributing
 
